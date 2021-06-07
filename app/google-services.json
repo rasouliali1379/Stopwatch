@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078663794837",
+    "firebase_url": "https://speedclimbingstopwatch.firebaseio.com",
+    "project_id": "speedclimbingstopwatch",
+    "storage_bucket": "speedclimbingstopwatch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078663794837:android:d22e515c58f1bc78",
+        "android_client_info": {
+          "package_name": "roozbeh.ru.speedclimbingstopwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078663794837-179d0jkc75mr67ge0s4nr0v845ere52b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "roozbeh.ru.speedclimbingstopwatch",
+            "certificate_hash": "a419c344bd5fe2ee753e74085ebb171e77c9e38c"
+          }
+        },
+        {
+          "client_id": "1078663794837-bufmqhneofsftknv34havmbullpvkifq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx-K1xHham__WQjeMll4iI3BLytJnWxx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078663794837-bufmqhneofsftknv34havmbullpvkifq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
